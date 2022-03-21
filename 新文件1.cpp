@@ -45,5 +45,6 @@ int main(){
 	A1.push(1);
 	A1.pop();
 	A1.display();
+	int a = 2;
 	return 0;
 }
